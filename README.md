@@ -10,8 +10,8 @@
 ##
 
 #### Ferramentas que uso:
-[<img height="48px" width="48px" alt="Icone Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"/>](https://insomnia.rest)
+[<img height="48px" width="48px" alt="Icone Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>](https://developer.android.com/about?gclid=CjwKCAiAjrarBhAWEiwA2qWdCPy-u_xR3UWvT5YrNhSOexjD0qOWSTNvwwlmOMNdcHjy4XXAXJ7qrBoCt54QAvD_BwE&gclsrc=aw.ds)
+[<img height="48px" width="48px" alt="Icone Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"/>](https://kotlinlang.org/)
 
 ##
 
